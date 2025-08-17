@@ -1,3 +1,5 @@
+![Cover RPG]
+
 **English version**
 # Mini-RPG in Python 🐉
 
