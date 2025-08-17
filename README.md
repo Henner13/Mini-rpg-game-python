@@ -1,4 +1,4 @@
-![Cover RPG]
+![Cover RPG](https://github.com/Henner13/Mini-rpg-game-python/blob/main/cover-rpg.png)
 
 **English version**
 # Mini-RPG in Python 🐉
