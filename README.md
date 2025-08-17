@@ -25,7 +25,7 @@ This is a classic console-based role-playing game (RPG) written in Python. The p
 ## ▶️ How to Run
 
 1. Make sure you have Python 3 installed.
-2. Download the `Terminal-game.py` file.
+2. Download the `Terminal_game.py` file.
 3. Run the game from the terminal:
 
 ---
@@ -56,8 +56,8 @@ Este es un juego de rol clásico en consola, escrito en Python. El jugador se en
 ## ▶️ Cómo ejecutar
 
 1. Asegúrate de tener Python 3 instalado.
-2. Descarga el archivo `Terminal-game.py`.
+2. Descarga el archivo `Terminal_game.py`.
 3. Ejecuta el juego desde la terminal:
 
 ```bash
-python Terminal-game.py
+python Terminal_game.py
