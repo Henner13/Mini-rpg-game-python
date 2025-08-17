@@ -60,4 +60,4 @@ Este es un juego de rol clásico en consola, escrito en Python. El jugador se en
 3. Ejecuta el juego desde la terminal:
 
 ```bash
-python mini_rpg.py
+python Terminal-game.py
